@@ -27,7 +27,7 @@ Telemetry part is done with the IOx dashboard on an IR829 gateway where the data
 Our solution will levegerage the following Cisco technologies:
 
 * [Webex Teams](https://www.cisco.com/c/es_co/solutions/collaboration/webex-teams.html)
-* [Cisco IOx with IR829] (https://www.cisco.com/c/en/us/products/cloud-systems-management/iox/index.html)
+* [Cisco IOx with IR829](https://www.cisco.com/c/en/us/products/cloud-systems-management/iox/index.html)
 * [Meraki Wireless](http://cisco.com/go/meraki)
 
 Our solutions also uses hardware to collect data and send to APIs:
@@ -56,6 +56,15 @@ Connect an AP to the IR829 on port GE1, and a SIM card to slot 0.
 Then deploy the docker container package.tar, and get the token and run metadata.py to create de dashboard.
 Then you only need to run HELMET.py.
 
+## Architecture
+Download
+[HELP - Arch - Innovation Challenge Latam.pdf]()
+
+## VIDEOS
+https://www.youtube.com/watch?v=Bxe4f8BBA24
+https://www.youtube.com/watch?v=MGL2xpnnAd8
+https://www.youtube.com/watch?v=osEagpTWWNk
+
 ## Installation
 
 TBA
@@ -76,11 +85,6 @@ Our code of conduct is available [here](./CODE_OF_CONDUCT.md)
 
 See our contributing guidelines [here](./CONTRIBUTING.md)
 
-## VIDEOS
-https://www.youtube.com/watch?v=Bxe4f8BBA24
-https://www.youtube.com/watch?v=MGL2xpnnAd8
-https://www.youtube.com/watch?v=osEagpTWWNk
 
-##Architecture
-Download
-HELP - Arch - Innovation Challenge Latam.pdf
+
+
