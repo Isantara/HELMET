@@ -49,6 +49,8 @@ Our solutions also uses hardware to collect data and send to APIs:
 
 ## Solution Components
 
+![arch](arch.PNG)
+
 The main components of the software solution are python3 (requests, json, serial, Adafruit_DHT and RPi libraries), IOx Rest APIs and Webex Teams REST APIs.
 
 
