@@ -61,9 +61,9 @@ Open:
 [HELP - Arch - Innovation Challenge Latam.pdf](https://github.com/Isantara/HELMET/blob/master/HELP%20-%20Arch%20-%20Innovation%20Challenge%20Latam.pdf)
 
 ## VIDEOS
-https://www.youtube.com/watch?v=Bxe4f8BBA24
-https://www.youtube.com/watch?v=MGL2xpnnAd8
-https://www.youtube.com/watch?v=osEagpTWWNk
+First Gen: https://www.youtube.com/watch?v=Bxe4f8BBA24
+Second Version: https://www.youtube.com/watch?v=MGL2xpnnAd8
+Business Case: https://www.youtube.com/watch?v=osEagpTWWNk
 
 ## Installation
 
