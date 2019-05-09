@@ -49,8 +49,6 @@ Our solutions also uses hardware to collect data and send to APIs:
 
 ## Solution Components
 
-![arch](arch.PNG)
-
 The main components of the software solution are python3 (requests, json, serial, Adafruit_DHT and RPi libraries), IOx Rest APIs and Webex Teams REST APIs.
 
 
@@ -63,12 +61,14 @@ Then deploy the docker container package.tar, and get the token and run metadata
 Then you only need to run HELMET.py.
 
 ## Architecture
-Open: 
-[HELP - Arch - Innovation Challenge Latam.pdf](https://github.com/Isantara/HELMET/blob/master/HELP%20-%20Arch%20-%20Innovation%20Challenge%20Latam.pdf)
+
+![arch](arch.PNG)
 
 ## VIDEOS
 First Gen: https://www.youtube.com/watch?v=Bxe4f8BBA24
+
 Second Version: https://www.youtube.com/watch?v=MGL2xpnnAd8
+
 Business Case: https://www.youtube.com/watch?v=osEagpTWWNk
 
 ## Installation
