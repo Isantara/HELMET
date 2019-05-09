@@ -80,3 +80,7 @@ See our contributing guidelines [here](./CONTRIBUTING.md)
 https://www.youtube.com/watch?v=Bxe4f8BBA24
 https://www.youtube.com/watch?v=MGL2xpnnAd8
 https://www.youtube.com/watch?v=osEagpTWWNk
+
+##Architecture
+Download
+HELP - Arch - Innovation Challenge Latam.pdf
