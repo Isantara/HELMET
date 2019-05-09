@@ -75,3 +75,8 @@ Our code of conduct is available [here](./CODE_OF_CONDUCT.md)
 ## Contributing
 
 See our contributing guidelines [here](./CONTRIBUTING.md)
+
+## Contributing
+Videos: https://www.youtube.com/watch?v=Bxe4f8BBA24
+https://www.youtube.com/watch?v=MGL2xpnnAd8
+https://www.youtube.com/watch?v=osEagpTWWNk
