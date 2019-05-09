@@ -57,7 +57,7 @@ Then deploy the docker container package.tar, and get the token and run metadata
 Then you only need to run HELMET.py.
 
 ## Architecture
-Download
+Open: 
 [HELP - Arch - Innovation Challenge Latam.pdf](https://github.com/Isantara/HELMET/blob/master/HELP%20-%20Arch%20-%20Innovation%20Challenge%20Latam.pdf)
 
 ## VIDEOS
