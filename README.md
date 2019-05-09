@@ -7,13 +7,14 @@ Project for Americas SE Innovation Challenge
 
 "I am tremendously excited about Mining.  I have been to my mandatory set of 8 sessions, and I don’t have to reiterate the investment, opportunity, Investments, Picture of Environment, Opportunities to insert Cisco technology that exec after exec has highlighted in Mining.  Whether it is our solutions that have played no small part at Dundee Precious Metals quadrupling their production, or at Freeport McMoran as they have used Big Data analytics for predictive maintenance and other capabilities, or with BHP Billiton and Rio Tinto in Australia for Autonomous (driverless) Truck Operations and Remote Operations, Cisco has played a large part in helping our customers reach their business outcomes, and we will continue to do so. This is a $4 Bn. TAM for Cisco, growing at 15% CAGR.  This is Big.  And it is Now." Paco Bolaños
 The purpose of this project is saving lives, not only in mining, but also in other verticals. 
+Collect real time information about worker's health, explosive gases, or alerts for fast response care, evacuation and safety. This information can potentially enable additional services as ventilation on demand for energy reduction, health monitoring should reduce labor insurance fees, and reduce casualties due to accidents. These will impact business on energy reduction, improved safety, process efficiency, and improved process intelligence.
 The helmet is the main element for protection of persons in many verticals. People are exposed to many type of dangers, not only blows to the head; for example dangerous gases, high temperature, low or high humidity, incomunication, and all of these can create heart problems.
 But could the helmet do more for save lives?
 Could a helmet use the Cisco solutions to save lives?
 H.E.L.M.E.T. can.
 
 ## Proposed Solution
-
+Solution is composed of a helmet, connected to a 802.11 WiFi mesh network, using OT network as backhaul, connected to IT network using ISA-95 architecture. BOTS are programmed on Teams platform and monitor each sensor individually. For visibility, a dashboard can be processed using IOX on edge devices, or can be send through APIs to 3rd party analytic platforms.
 We desing and implement a helmet that sends data to IOx dashboard, and also send alerts to webex teams spaces.
 The name is H.E.L.M.E.T. for Health Enviromental and Location Monitoring Equipment with Telemetry
 Health part is done by the Heartbeat sensor, and helmet wearing sensor.
